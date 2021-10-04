@@ -1,0 +1,16 @@
+.discount {
+    border-radius: 5px;
+    background-color: aqua;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.discount:hover {
+    background-color: rgb(9, 166, 228);
+    transition: background-color 0.5s ease-in;
+}
+
+.disItem {
+    margin: 0;
+    margin: 10px;
+}

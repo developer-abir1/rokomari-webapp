@@ -1,0 +1,31 @@
+.productItems {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    width: 200px;
+}
+
+.react-multi-carousel-track li {
+    width: 250px !important;
+}
+
+.product-banner {
+    background-image: url('../../../Image/flat-arabic-pattern-background_79603-1826.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.card {
+    background-color: #c7c0c007;
+    border: none;
+    border-radius: 5px;
+}
+
+.card img {
+    padding: 10px
+}
+
+.card:hover {
+    background-color: rgba(94, 89, 65, 0.575);
+    color: white;
+}

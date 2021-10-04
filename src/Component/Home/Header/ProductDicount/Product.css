@@ -1,0 +1,29 @@
+.fixted {
+    background-color: white;
+    position: fixed;
+    transform: rotate(270deg);
+    border-radius: 5px;
+    padding: 10px;
+    top: 350px;
+    left: -130px;
+    cursor: pointer;
+}
+
+.fixted:hover {
+    color: #0397d3;
+}
+
+.card-icon:hover {
+    color: #0397d3;
+}
+
+.card-icon {
+    background-color: white;
+    color: black;
+    position: fixed;
+    border-radius: 5px;
+    padding: 20px;
+    top: 320px;
+    right: 0px;
+    cursor: pointer;
+}

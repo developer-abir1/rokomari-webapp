@@ -1,0 +1,37 @@
+/* ------------
+item title
+----------------*/
+
+.item-title a {
+    color: black!important;
+    cursor: pointer;
+}
+
+.item-title a .active {
+    color: #0397d3!important;
+}
+
+.item-title a:hover {
+    color: #0397d3!important;
+}
+
+.manuItem {
+    display: flex;
+    justify-content: center;
+}
+
+.nav-tabs .nav-link {
+    border: none;
+}
+
+.nav-tabs .active {
+    margin-bottom: -1px;
+    background: 0 0;
+    border: 1px solid transparent;
+    border-top-left-radius: .25rem;
+    border-top-right-radius: .25rem;
+}
+
+.nav-item a:hover {
+    color: #0397d3
+}

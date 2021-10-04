@@ -1,0 +1,38 @@
+.card-item-color {
+    background-color: #33c24d;
+    color: white;
+}
+
+#input-search {
+    border-bottom: 3px solid #ff9900;
+    border-radius: 3px 0 0 3px !important;
+}
+
+#input-search:focus {
+    border-bottom: 1px solid #0397d3;
+}
+
+.input-group-text {
+    background-color: #0397d3;
+    color: white;
+}
+
+.singinBtn {
+    border-radius: 5px;
+    border: 1px solid #464646;
+    color: #464646;
+    width: 80px;
+    height: 38px;
+    background-color: white;
+}
+
+.singinBtn:hover {
+    background-color: #33c24d;
+    color: white;
+    border: none;
+}
+
+.navbar-color {
+    background-color: white;
+    margin-bottom: 0
+}
